@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inria-serif: "Inria Serif";
+    --font-inter: Inter;
+  
+    /* font sizes */
+    --font-size-base: 16px;
+    --font-size-xl: 20px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gainsboro: #d9d9d9;
+    --color-whitesmoke: #f1f1f1;
+    --color-black: #000;
+    --color-lightgreen: #5fc963;
+    --color-cornflowerblue: #2d7bd6;
+  
+    /* Paddings */
+    --padding-xl: 20px;
+    --padding-2xs: 11px;
+    --padding-10xs: 3px;
+    --padding-165xl: 184px;
+    --padding-73xl: 92px;
+  }
